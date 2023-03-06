@@ -1,4 +1,4 @@
-# new
+# First ever AI ReadMe
  
 Super AI
 My super AI is an AI system that is more intelligent than the human mind.
